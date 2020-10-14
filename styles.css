@@ -1,0 +1,31 @@
+img{
+    width:450px;
+}
+body {
+    background-color:#89cff0;
+}
+.lizzoTwo {
+    display: none;
+    }
+.lizzoThree{
+    display:none;
+}
+
+.showLizzoThree {
+ display: none;   
+}
+.Lizzopurse{
+    display:none;
+}
+
+.lizzoPurse {
+    display: none;
+    }
+.cuzIloveyou{
+    display:none;
+}
+
+.lizzoEnding {
+    display: none;
+    }
+    
